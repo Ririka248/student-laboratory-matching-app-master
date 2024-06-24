@@ -1,1 +1,1 @@
-# student-laboratory-matching-app-master
+# student-laboratory-matching-app
